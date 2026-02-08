@@ -1,7 +1,7 @@
 # vidc
 
 **A simple, lightweight media player built with GTK3 and GStreamer**
-
+<img width="877" height="690" alt="Image" src="https://github.com/user-attachments/assets/1f296d99-1ad7-4edb-acae-72f4b2b78330" />
 *Optimized for Wayland desktops*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
