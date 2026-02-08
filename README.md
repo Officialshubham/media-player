@@ -70,7 +70,7 @@ sudo dnf install gtk3-devel gstreamer1-devel \
 
 ```bash
 # Clone the repository
-git clone https://github.com/officialshubham/vidc.git
+git clone https://github.com/Officialshubham/media-player.git
 cd vidc
 
 # Create build directory
@@ -220,7 +220,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **vidc** is optimized for Wayland compositors but maintains full compatibility with X11 systems. Performance may vary depending on available GStreamer plugins and hardware acceleration capabilities.
 
-For bug reports and feature requests, please [open an issue](https://github.com/yourusername/vidc/issues).
+For bug reports and feature requests, please [open an issue](https://github.com/Officialshubham/media-player/issues).
 
 ---
 
